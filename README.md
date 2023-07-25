@@ -24,6 +24,7 @@ To details how I cleaned a dirty data showing sales entry in Power Query. I foll
 **Below shows the two cleaned datasets:**
 
 **-Customer details**
+
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1690252274/ug9zjkxiqakqyvvitb3g.jpg)
 
 **-Sales data**
