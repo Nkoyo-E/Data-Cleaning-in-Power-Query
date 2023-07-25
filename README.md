@@ -5,7 +5,11 @@ In this project, I worked on two dirty datasets in Power Query:
 1. Jumbled Customer Details
 2. Badly Structured Sales Data
 
-**Dirty sales data**
+**Jumbled Customer Details**
+
+![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1690253120/dirty%20customer%20details.jpg)
+
+**Badly Structured Sales Data**
 
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1688858078/Dirty%20sales%20data%20set%20in%20power%20query.jpg)
 
@@ -17,7 +21,11 @@ To details how I cleaned a dirty data showing sales entry in Power Query. I foll
 5.	Renamed the columns appropriately to ensure clarity of the data.
 
 
-**Below shows the clean custsomer details and sales data ready for analysis**
+**Below shows the two cleaned datasets:**
+
+**-Customer details**
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1690252274/ug9zjkxiqakqyvvitb3g.jpg)
+
+**-Sales data**
 
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1688858094/Clean%20sales%20data%20in%20power%20query%20editor.jpg)
