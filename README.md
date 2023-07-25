@@ -1,5 +1,10 @@
 # Data-Cleaning-in-Power-Query
 
+Data cleaning is very vital and important in data analytics process. if your data has inconsistencies or eerrors, your result will be inaccurate.
+In this project, I worked on two dirty datasets in Power Query:
+1. Jumbled Customer Details
+2. Badly Structured Customer Data
+
 **Dirty sales data**
 
 ![alt text](https://res.cloudinary.com/domkl95kr/image/upload/v1688858078/Dirty%20sales%20data%20set%20in%20power%20query.jpg)
